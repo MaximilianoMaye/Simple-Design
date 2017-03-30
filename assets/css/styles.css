@@ -1,0 +1,22 @@
+.header-blue {
+  background-attachment:fixed;
+}
+
+.text-center.texto-paralax {
+  margin-top:30px;
+  padding-top:130px;
+  color:white;
+  font-size:36px;
+  font-weight:300;
+  letter-spacing:3px;
+}
+
+.text-center.hacerlo-posible {
+  letter-spacing:1px;
+}
+
+.text-center.team {
+  font-weight:100;
+  color:#282d32;
+}
+
